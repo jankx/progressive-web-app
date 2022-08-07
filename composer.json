@@ -1,0 +1,16 @@
+{
+    "name": "jankx/progressive-web-app",
+    "description": "Make Jankx theme framework as Progressive Web Apps",
+    "autoload": {
+        "psr-4": {
+            "Jankx\\ProgressiveWebApp\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Puleeno Nguyen",
+            "email": "puleeno@gmail.com"
+        }
+    ],
+    "require": {}
+}
